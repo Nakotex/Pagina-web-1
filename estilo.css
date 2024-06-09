@@ -1,17 +1,27 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
     margin: 0;
     padding: 0;
+    background-color: #f9f9f9;
 }
 
-h1 {
-    color: #007bff;
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
 }
 
-p {
-    font-size: 16px;
-    line-height: 1.5;
+main {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 0 20px;
+    text-align: center;
 }
 
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
